@@ -17,7 +17,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+git clone https://github.com/vishnuvemuri/driver-drowsiness-detection.git
 cd driver-drowsiness-detection
 Install Dependencies:
 
@@ -53,6 +53,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 For questions, issues, or contributions, please contact:
 
-Project Lead: Your Name (your.email@example.com)
-GitHub: yourusername
+Project Lead: V.Vishnuvardhan
+GitHub: vishnuvemuri
 This README file provides a comprehensive overview of the project, installation instructions, usage guidelines, technical details, contribution guidelines, and contact information. Adjust the placeholders (like repository URL, project lead name, email, and GitHub username) as necessary.
