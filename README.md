@@ -1,9 +1,14 @@
 # Integrated-Cognitive-Detection-and-Alert-System-for-Mitigating-Driver-Drowsiness
 
 Overview
+
 Driver drowsiness is a significant factor in road accidents, leading to serious injuries and fatalities. This project aims to develop an Integrated Cognitive Detection and Alert System that monitors driver alertness in real-time and provides timely alerts to mitigate the risks associated with drowsy driving. Utilizing advanced technologies in machine learning, computer vision, and cognitive analysis, this system ensures safer driving conditions by detecting early signs of drowsiness and taking preemptive actions.
 
+![image](https://github.com/vishnuvemuri/Integrated-Cognitive-Detection-and-Alert-System-for-Mitigating-Driver-Drowsiness/assets/96485620/b73ac967-22f3-4626-887a-ffddaaeb9060)
+
+
 Features
+
 Real-Time Monitoring: Continuously monitors driver behavior and physiological signals to detect signs of drowsiness.
 Machine Learning Models: Employs advanced machine learning algorithms to analyze data and predict drowsiness with high accuracy.
 Computer Vision: Uses facial recognition and eye-tracking technology to monitor driver alertness.
@@ -12,7 +17,12 @@ Multi-Sensor Fusion: Combines data from various sensors (e.g., camera, heart rat
 Immediate Alerts: Provides audible, visual, and haptic alerts to the driver upon detecting signs of drowsiness.
 User-Friendly Interface: Features an intuitive dashboard for easy monitoring and management.
 Customizable Settings: Allows users to adjust sensitivity and alert preferences according to their needs.
+
+![image](https://github.com/vishnuvemuri/Integrated-Cognitive-Detection-and-Alert-System-for-Mitigating-Driver-Drowsiness/assets/96485620/8e5bce17-3285-4bb3-a981-d07957662875)
+
+
 Installation
+
 Clone the Repository:
 
 sh
@@ -47,12 +57,16 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
+
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
+
 For questions, issues, or contributions, please contact:
 
 Project Lead: V.Vishnuvardhan
 GitHub: vishnuvemuri
+
 This README file provides a comprehensive overview of the project, installation instructions, usage guidelines, technical details, contribution guidelines, and contact information. Adjust the placeholders (like repository URL, project lead name, email, and GitHub username) as necessary.
